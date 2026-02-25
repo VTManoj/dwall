@@ -33,7 +33,7 @@ const Navbar = () => {
             </div>
 
             {open && (
-                <div className="md:hidden bg-[#2a2a2a] px-6 py-4 space-y-4">
+                <div className="md:hidden bg-[#2a2a2a] px-6 py-4 space-y-4 flex flex-col rounded-b-xl transform transition-all duration-500 ease-in">
                     <a href="#">About Us</a>
                     <a href="#">Services</a>
                     <a href="#">Contact Us</a>
