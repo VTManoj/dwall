@@ -7,6 +7,7 @@ import Testimonials from "./components/Testimonial";
 import HighlightSection from "./components/Hightlight";
 import About from "./components/about";
 import Contact from "./components/Contact";
+import Certificates from "./components/Certificates";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <About />
       <HighlightSection />
       <Projects />
+      <Certificates />
       <Testimonials />
       <Contact />
       <Footer />

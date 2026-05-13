@@ -2,7 +2,7 @@ import { Phone, Mail, MapPin } from "lucide-react";
 
 const Contact = () => {
   return (
-    <section className="py-24 bg-[#e9edf2]">
+    <section id="contact" className="py-24 bg-[#e9edf2]">
       <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row lg:grid-cols-2 gap-16 items-start ">
 
         {/* LEFT SIDE */}

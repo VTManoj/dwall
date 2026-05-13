@@ -1,6 +1,6 @@
 const Testimonials = () => {
     return (
-        <section className="bg-[#1f1f1f] text-white py-20">
+        <section id="testimonials" className="bg-[#1f1f1f] text-white py-20">
             <div className="max-w-7xl mx-auto px-6 text-center">
                 <h2 className="text-3xl font-bold mb-10">
                     Customer Experiences With DWall
